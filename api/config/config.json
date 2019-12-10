@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "211215",
+    "database": "Flashlist",
+    "host": "localhost",
+    "dialect": "postgresql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "postgres",
+    "password": "root",
+    "database": "postgres",
+    "host": "35.224.96.93",
+    "dialect": "postgresql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "211215",
+    "database": "Flashlist",
+    "host": "localhost",
+    "dialect": "postgresql",
+    "operatorsAliases": false
+  }
+}
